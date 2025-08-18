@@ -1,0 +1,6 @@
+Topic,Description,Example
+Python Basics,Introduction to Python programming,print("Hello World")
+Data Types,Python supports int, float, str, list, dict,x = 10; name = "Alice"
+Loops,Python has for and while loops,for i in range(5): print(i)
+Functions,Define reusable code with def,function greet(name): return "Hello " + name
+Modules,Python modules allow code reuse,import math; print(math.sqrt(16))

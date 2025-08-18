@@ -1,0 +1,23 @@
+Python Programming Tutorial
+---------------------------
+
+Python is a high-level programming language used for data analysis, web development, and automation. 
+It supports multiple programming paradigms such as procedural, object-oriented, and functional programming.
+
+Variables and Data Types:
+Python has several built-in data types including integers, floats, strings, lists, dictionaries, and tuples.
+Example:
+x = 10
+name = "Alice"
+
+Control Flow:
+Python supports if statements, loops (for and while), and exception handling.
+Example:
+for i in range(5):
+    print(i)
+
+Functions:
+Functions allow you to define reusable blocks of code using the 'def' keyword.
+Example:
+def greet(name):
+    return "Hello " + name
