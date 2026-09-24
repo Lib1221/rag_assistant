@@ -50,3 +50,11 @@ Python, LangChain, FAISS, HuggingFace Transformers, Sentence Transformers, Strea
 ## Notes
 
 The default generator (`flan-t5-small`) is chosen so the project runs on a laptop CPU. Swap the model name in `rag_core.py` for a larger model if you have a GPU or want better answers.
+
+## Documentation
+
+Developer docs live in [`docs/`](docs/):
+
+- [Architecture](docs/ARCHITECTURE.md)
+- [Setup](docs/SETUP.md)
+- [Contributing](docs/CONTRIBUTING.md)
